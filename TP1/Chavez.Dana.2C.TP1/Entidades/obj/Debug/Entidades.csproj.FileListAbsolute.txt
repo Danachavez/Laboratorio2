@@ -1,7 +1,0 @@
-D:\Dana\Escritorio\Cosas para Lab y Prog 2\Chavez.Dana.2C.TP1\Entidades\bin\Debug\Entidades.exe.config
-D:\Dana\Escritorio\Cosas para Lab y Prog 2\Chavez.Dana.2C.TP1\Entidades\bin\Debug\Entidades.exe
-D:\Dana\Escritorio\Cosas para Lab y Prog 2\Chavez.Dana.2C.TP1\Entidades\bin\Debug\Entidades.pdb
-D:\Dana\Escritorio\Cosas para Lab y Prog 2\Chavez.Dana.2C.TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-D:\Dana\Escritorio\Cosas para Lab y Prog 2\Chavez.Dana.2C.TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-D:\Dana\Escritorio\Cosas para Lab y Prog 2\Chavez.Dana.2C.TP1\Entidades\obj\Debug\Entidades.exe
-D:\Dana\Escritorio\Cosas para Lab y Prog 2\Chavez.Dana.2C.TP1\Entidades\obj\Debug\Entidades.pdb
